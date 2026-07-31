@@ -62,6 +62,15 @@ Every idea may be questioned. Every idea must also be represented fairly before 
 
 The objective is not destruction. It is accurate understanding under pressure.
 
+## Knowledge and reality
+
+The Gym distinguishes between a claim being unsupported by currently available evidence and a claim being impossible. Human and AI evaluators both operate with incomplete information.
+
+See the [Principles Index](principles/INDEX.md), including:
+
+- [Model Thinking](principles/model-thinking.md)
+- [Separate the Limits of Reality from the Limits of Knowledge](principles/knowledge-boundaries.md)
+
 ## Repository map
 
 ```text
@@ -86,6 +95,12 @@ The-Thinking-Gym/
 5. Complete the exercise without hiding uncertainty or protecting conclusions.
 6. End with **What changed?**
 7. Commit the artifact even when the result is inconclusive.
+
+## Preservation rule
+
+Conversation is the workshop. The repository is the source of truth.
+
+A durable principle, framework, exercise improvement, prediction, or methodological rule is not considered preserved until it has been committed. When one appears during a session, capture it before the discussion moves far enough for it to be lost.
 
 ## Status
 
